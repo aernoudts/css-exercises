@@ -1,0 +1,14 @@
+.blackb,
+.yellowb {
+    font-size: 28px;
+    font: Helvetica, "Times New Roman", sans-serif;
+}
+
+.blackb {
+    background-color: black;
+    color: white;
+}
+
+.yellowb {
+    background-color: yellow;
+}
